@@ -8,13 +8,33 @@
 
 import UIKit
 
-class CardViewController: UIViewController {
+class CardViewController: UIViewController, UIWebViewDelegate{
+    
+    let cardWebView :UIWebView = UIWebView()
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        cardWebView.delegate = self
+        cardWebView.frame = self.view.bounds
+        self.view.addSubview(cardWebView)
+        let cardurl = NSURL(string:"http://www.starbucks.co.jp/card/?mode=mb_001")
+        let cardUrlReq = NSURLRequest(URL: cardurl!)
+        cardWebView.loadRequest(cardUrlReq)
     }
+    
+    func webViewDidStartLoad(webView: UIWebView) {
+        UIApplication.sharedApplication().networkActivityIndicatorVisible = true
+    }
+    
+    func webViewDidFinishLoad(webView: UIWebView) {
+        UIApplication.sharedApplication().networkActivityIndicatorVisible = false
+    }
+
+    
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()

@@ -13,6 +13,53 @@
 		3E5F61861ABD610C0041D6C6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61851ABD610C0041D6C6 /* Images.xcassets */; };
 		3E5F61891ABD610C0041D6C6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61871ABD610C0041D6C6 /* LaunchScreen.xib */; };
 		3E5F61951ABD610C0041D6C6 /* starbucksappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5F61941ABD610C0041D6C6 /* starbucksappTests.swift */; };
+		3E5F61A31ABD76B80041D6C6 /* top.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F619E1ABD76B80041D6C6 /* top.png */; };
+		3E5F61AA1ABD77F30041D6C6 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61A91ABD77F30041D6C6 /* logo.png */; };
+		3E5F61B71ABD79D50041D6C6 /* カードicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61B31ABD79D50041D6C6 /* カードicon.png */; };
+		3E5F61B81ABD79D50041D6C6 /* メニューicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61B41ABD79D50041D6C6 /* メニューicon.png */; };
+		3E5F61B91ABD79D50041D6C6 /* 店舗icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61B51ABD79D50041D6C6 /* 店舗icon.png */; };
+		3E5F61BA1ABD79D50041D6C6 /* 豆icon in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61B61ABD79D50041D6C6 /* 豆icon */; };
+		3E5F61BE1ABD7DCA0041D6C6 /* お得情報.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61BD1ABD7DCA0041D6C6 /* お得情報.png */; };
+		3E5F61C21ABDB8AA0041D6C6 /* SHOPLIST.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61BF1ABDB8AA0041D6C6 /* SHOPLIST.png */; };
+		3E5F61C31ABDB8AA0041D6C6 /* wifi in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61C01ABDB8AA0041D6C6 /* wifi */; };
+		3E5F61C41ABDB8AA0041D6C6 /* wifi-icon-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61C11ABDB8AA0041D6C6 /* wifi-icon-2.png */; };
+		3E5F61C61ABDB90A0041D6C6 /* shoplisticon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61C51ABDB90A0041D6C6 /* shoplisticon.png */; };
+		3E5F61C91ABDCCDB0041D6C6 /* あ.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61C81ABDCCDB0041D6C6 /* あ.png */; };
+		3E5F61CB1ABDCD4F0041D6C6 /* english.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61CA1ABDCD4F0041D6C6 /* english.png */; };
+		3E5F61CE1ABDD9160041D6C6 /* wifi接続方法.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61CC1ABDD9160041D6C6 /* wifi接続方法.png */; };
+		3E5F61CF1ABDD9160041D6C6 /* wifi登録方法.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61CD1ABDD9160041D6C6 /* wifi登録方法.png */; };
+		3E5F61D31ABDD9520041D6C6 /* WifiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5F61D21ABDD9520041D6C6 /* WifiViewController.swift */; };
+		3E5F61D61ABDE02E0041D6C6 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61D51ABDE02E0041D6C6 /* back.png */; };
+		3E5F61E41ABDED550041D6C6 /* beans.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61E31ABDED540041D6C6 /* beans.png */; };
+		3E5F61F01ABDF8790041D6C6 /* brond.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61ED1ABDF8790041D6C6 /* brond.png */; };
+		3E5F61F11ABDF8790041D6C6 /* dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61EE1ABDF8790041D6C6 /* dark.png */; };
+		3E5F61F21ABDF8790041D6C6 /* medium.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61EF1ABDF8790041D6C6 /* medium.png */; };
+		3E5F61F41ABDF8FB0041D6C6 /* 袋.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61F31ABDF8FB0041D6C6 /* 袋.png */; };
+		3E5F61F61ABDF9290041D6C6 /* beansillu.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61F51ABDF9290041D6C6 /* beansillu.png */; };
+		3E5F61F81ABE062F0041D6C6 /* 好み.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61F71ABE062F0041D6C6 /* 好み.png */; };
+		3E5F61FE1ABE09C40041D6C6 /* roasstlevel.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61FD1ABE09C40041D6C6 /* roasstlevel.png */; };
+		3E5F62001ABE0ED20041D6C6 /* card.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F61FF1ABE0ED20041D6C6 /* card.png */; };
+		3E5F62021ABE0F6A0041D6C6 /* cardd.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62011ABE0F6A0041D6C6 /* cardd.png */; };
+		3E5F62041ABE11EF0041D6C6 /* gift.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62031ABE11EF0041D6C6 /* gift.png */; };
+		3E5F62061ABE12AF0041D6C6 /* mag.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62051ABE12AF0041D6C6 /* mag.png */; };
+		3E5F62081ABE14510041D6C6 /* CardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5F62071ABE14510041D6C6 /* CardViewController.swift */; };
+		3E5F620A1ABE155D0041D6C6 /* MDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5F62091ABE155D0041D6C6 /* MDViewController.swift */; };
+		3E5F62101ABE1B2C0041D6C6 /* cap.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F620F1ABE1B2C0041D6C6 /* cap.png */; };
+		3E5F62151ABE1F080041D6C6 /* coffee.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62111ABE1F080041D6C6 /* coffee.png */; };
+		3E5F62161ABE1F080041D6C6 /* esp.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62121ABE1F080041D6C6 /* esp.png */; };
+		3E5F62171ABE1F080041D6C6 /* others.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62131ABE1F080041D6C6 /* others.png */; };
+		3E5F62181ABE1F080041D6C6 /* tea.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62141ABE1F080041D6C6 /* tea.png */; };
+		3E5F621A1ABE1FF90041D6C6 /* cos.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62191ABE1FF90041D6C6 /* cos.png */; };
+		3E5F621F1ABE22DA0041D6C6 /* grande.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F621B1ABE22DA0041D6C6 /* grande.png */; };
+		3E5F62201ABE22DA0041D6C6 /* short.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F621C1ABE22DA0041D6C6 /* short.png */; };
+		3E5F62211ABE22DA0041D6C6 /* tall.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F621D1ABE22DA0041D6C6 /* tall.png */; };
+		3E5F62221ABE22DA0041D6C6 /* venti.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F621E1ABE22DA0041D6C6 /* venti.png */; };
+		3E5F62241ABE25B80041D6C6 /* drip.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62231ABE25B80041D6C6 /* drip.png */; };
+		3E5F62261ABE25E00041D6C6 /* drip.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62251ABE25E00041D6C6 /* drip.png */; };
+		3E5F62291ABE274E0041D6C6 /* cold.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62271ABE274E0041D6C6 /* cold.png */; };
+		3E5F622A1ABE274E0041D6C6 /* hot.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62281ABE274E0041D6C6 /* hot.png */; };
+		3E5F622C1ABE2D4A0041D6C6 /* press.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F622B1ABE2D4A0041D6C6 /* press.png */; };
+		3E5F622E1ABE2DBF0041D6C6 /* CoffeeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5F622D1ABE2DBF0041D6C6 /* CoffeeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +83,55 @@
 		3E5F618E1ABD610C0041D6C6 /* starbucksappTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = starbucksappTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E5F61931ABD610C0041D6C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3E5F61941ABD610C0041D6C6 /* starbucksappTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = starbucksappTests.swift; sourceTree = "<group>"; };
+		3E5F619E1ABD76B80041D6C6 /* top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = top.png; sourceTree = "<group>"; };
+		3E5F61A91ABD77F30041D6C6 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		3E5F61B31ABD79D50041D6C6 /* カードicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "カードicon.png"; sourceTree = "<group>"; };
+		3E5F61B41ABD79D50041D6C6 /* メニューicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "メニューicon.png"; sourceTree = "<group>"; };
+		3E5F61B51ABD79D50041D6C6 /* 店舗icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "店舗icon.png"; sourceTree = "<group>"; };
+		3E5F61B61ABD79D50041D6C6 /* 豆icon */ = {isa = PBXFileReference; lastKnownFileType = file; path = "豆icon"; sourceTree = "<group>"; };
+		3E5F61BD1ABD7DCA0041D6C6 /* お得情報.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "お得情報.png"; sourceTree = "<group>"; };
+		3E5F61BF1ABDB8AA0041D6C6 /* SHOPLIST.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SHOPLIST.png; sourceTree = "<group>"; };
+		3E5F61C01ABDB8AA0041D6C6 /* wifi */ = {isa = PBXFileReference; lastKnownFileType = file; path = wifi; sourceTree = "<group>"; };
+		3E5F61C11ABDB8AA0041D6C6 /* wifi-icon-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wifi-icon-2.png"; sourceTree = "<group>"; };
+		3E5F61C51ABDB90A0041D6C6 /* shoplisticon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shoplisticon.png; sourceTree = "<group>"; };
+		3E5F61C71ABDCB690041D6C6 /* 日本語 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "日本語"; sourceTree = "<group>"; };
+		3E5F61C81ABDCCDB0041D6C6 /* あ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "あ.png"; sourceTree = "<group>"; };
+		3E5F61CA1ABDCD4F0041D6C6 /* english.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = english.png; sourceTree = "<group>"; };
+		3E5F61CC1ABDD9160041D6C6 /* wifi接続方法.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wifi接続方法.png"; sourceTree = "<group>"; };
+		3E5F61CD1ABDD9160041D6C6 /* wifi登録方法.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wifi登録方法.png"; sourceTree = "<group>"; };
+		3E5F61D21ABDD9520041D6C6 /* WifiViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WifiViewController.swift; sourceTree = "<group>"; };
+		3E5F61D41ABDDFB50041D6C6 /* menu */ = {isa = PBXFileReference; lastKnownFileType = file; path = menu; sourceTree = "<group>"; };
+		3E5F61D51ABDE02E0041D6C6 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		3E5F61E31ABDED540041D6C6 /* beans.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beans.png; sourceTree = "<group>"; };
+		3E5F61ED1ABDF8790041D6C6 /* brond.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brond.png; sourceTree = "<group>"; };
+		3E5F61EE1ABDF8790041D6C6 /* dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dark.png; sourceTree = "<group>"; };
+		3E5F61EF1ABDF8790041D6C6 /* medium.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = medium.png; sourceTree = "<group>"; };
+		3E5F61F31ABDF8FB0041D6C6 /* 袋.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "袋.png"; sourceTree = "<group>"; };
+		3E5F61F51ABDF9290041D6C6 /* beansillu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beansillu.png; sourceTree = "<group>"; };
+		3E5F61F71ABE062F0041D6C6 /* 好み.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "好み.png"; sourceTree = "<group>"; };
+		3E5F61FD1ABE09C40041D6C6 /* roasstlevel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = roasstlevel.png; sourceTree = "<group>"; };
+		3E5F61FF1ABE0ED20041D6C6 /* card.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card.png; sourceTree = "<group>"; };
+		3E5F62011ABE0F6A0041D6C6 /* cardd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardd.png; sourceTree = "<group>"; };
+		3E5F62031ABE11EF0041D6C6 /* gift.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gift.png; sourceTree = "<group>"; };
+		3E5F62051ABE12AF0041D6C6 /* mag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mag.png; sourceTree = "<group>"; };
+		3E5F62071ABE14510041D6C6 /* CardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardViewController.swift; sourceTree = "<group>"; };
+		3E5F62091ABE155D0041D6C6 /* MDViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MDViewController.swift; path = ../../LiT/MDViewController.swift; sourceTree = "<group>"; };
+		3E5F620F1ABE1B2C0041D6C6 /* cap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cap.png; sourceTree = "<group>"; };
+		3E5F62111ABE1F080041D6C6 /* coffee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coffee.png; sourceTree = "<group>"; };
+		3E5F62121ABE1F080041D6C6 /* esp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = esp.png; sourceTree = "<group>"; };
+		3E5F62131ABE1F080041D6C6 /* others.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = others.png; sourceTree = "<group>"; };
+		3E5F62141ABE1F080041D6C6 /* tea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tea.png; sourceTree = "<group>"; };
+		3E5F62191ABE1FF90041D6C6 /* cos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cos.png; path = "素材/cos.png"; sourceTree = SOURCE_ROOT; };
+		3E5F621B1ABE22DA0041D6C6 /* grande.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = grande.png; path = "素材/grande.png"; sourceTree = SOURCE_ROOT; };
+		3E5F621C1ABE22DA0041D6C6 /* short.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = short.png; path = "素材/short.png"; sourceTree = SOURCE_ROOT; };
+		3E5F621D1ABE22DA0041D6C6 /* tall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tall.png; path = "素材/tall.png"; sourceTree = SOURCE_ROOT; };
+		3E5F621E1ABE22DA0041D6C6 /* venti.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = venti.png; path = "素材/venti.png"; sourceTree = SOURCE_ROOT; };
+		3E5F62231ABE25B80041D6C6 /* drip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drip.png; path = "素材/drip.png"; sourceTree = SOURCE_ROOT; };
+		3E5F62251ABE25E00041D6C6 /* drip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = drip.png; sourceTree = "<group>"; };
+		3E5F62271ABE274E0041D6C6 /* cold.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cold.png; sourceTree = "<group>"; };
+		3E5F62281ABE274E0041D6C6 /* hot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hot.png; sourceTree = "<group>"; };
+		3E5F622B1ABE2D4A0041D6C6 /* press.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = press.png; sourceTree = "<group>"; };
+		3E5F622D1ABE2DBF0041D6C6 /* CoffeeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoffeeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,8 +173,13 @@
 		3E5F617B1ABD610C0041D6C6 /* starbucksapp */ = {
 			isa = PBXGroup;
 			children = (
+				3E5F61A81ABD76BF0041D6C6 /* image */,
 				3E5F617E1ABD610C0041D6C6 /* AppDelegate.swift */,
 				3E5F61801ABD610C0041D6C6 /* ViewController.swift */,
+				3E5F61D21ABDD9520041D6C6 /* WifiViewController.swift */,
+				3E5F62091ABE155D0041D6C6 /* MDViewController.swift */,
+				3E5F62071ABE14510041D6C6 /* CardViewController.swift */,
+				3E5F622D1ABE2DBF0041D6C6 /* CoffeeViewController.swift */,
 				3E5F61821ABD610C0041D6C6 /* Main.storyboard */,
 				3E5F61851ABD610C0041D6C6 /* Images.xcassets */,
 				3E5F61871ABD610C0041D6C6 /* LaunchScreen.xib */,
@@ -110,6 +211,58 @@
 				3E5F61931ABD610C0041D6C6 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3E5F61A81ABD76BF0041D6C6 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				3E5F621B1ABE22DA0041D6C6 /* grande.png */,
+				3E5F622B1ABE2D4A0041D6C6 /* press.png */,
+				3E5F62231ABE25B80041D6C6 /* drip.png */,
+				3E5F621C1ABE22DA0041D6C6 /* short.png */,
+				3E5F62271ABE274E0041D6C6 /* cold.png */,
+				3E5F62281ABE274E0041D6C6 /* hot.png */,
+				3E5F621D1ABE22DA0041D6C6 /* tall.png */,
+				3E5F621E1ABE22DA0041D6C6 /* venti.png */,
+				3E5F62111ABE1F080041D6C6 /* coffee.png */,
+				3E5F62251ABE25E00041D6C6 /* drip.png */,
+				3E5F62191ABE1FF90041D6C6 /* cos.png */,
+				3E5F62121ABE1F080041D6C6 /* esp.png */,
+				3E5F62131ABE1F080041D6C6 /* others.png */,
+				3E5F62141ABE1F080041D6C6 /* tea.png */,
+				3E5F620F1ABE1B2C0041D6C6 /* cap.png */,
+				3E5F62051ABE12AF0041D6C6 /* mag.png */,
+				3E5F62031ABE11EF0041D6C6 /* gift.png */,
+				3E5F61FF1ABE0ED20041D6C6 /* card.png */,
+				3E5F62011ABE0F6A0041D6C6 /* cardd.png */,
+				3E5F61FD1ABE09C40041D6C6 /* roasstlevel.png */,
+				3E5F61F71ABE062F0041D6C6 /* 好み.png */,
+				3E5F61F51ABDF9290041D6C6 /* beansillu.png */,
+				3E5F61F31ABDF8FB0041D6C6 /* 袋.png */,
+				3E5F61ED1ABDF8790041D6C6 /* brond.png */,
+				3E5F61EE1ABDF8790041D6C6 /* dark.png */,
+				3E5F61EF1ABDF8790041D6C6 /* medium.png */,
+				3E5F61E31ABDED540041D6C6 /* beans.png */,
+				3E5F61D51ABDE02E0041D6C6 /* back.png */,
+				3E5F61D41ABDDFB50041D6C6 /* menu */,
+				3E5F61CC1ABDD9160041D6C6 /* wifi接続方法.png */,
+				3E5F61CD1ABDD9160041D6C6 /* wifi登録方法.png */,
+				3E5F61CA1ABDCD4F0041D6C6 /* english.png */,
+				3E5F61C81ABDCCDB0041D6C6 /* あ.png */,
+				3E5F61C71ABDCB690041D6C6 /* 日本語 */,
+				3E5F61C51ABDB90A0041D6C6 /* shoplisticon.png */,
+				3E5F61BF1ABDB8AA0041D6C6 /* SHOPLIST.png */,
+				3E5F61C01ABDB8AA0041D6C6 /* wifi */,
+				3E5F61C11ABDB8AA0041D6C6 /* wifi-icon-2.png */,
+				3E5F61B31ABD79D50041D6C6 /* カードicon.png */,
+				3E5F61B41ABD79D50041D6C6 /* メニューicon.png */,
+				3E5F61B51ABD79D50041D6C6 /* 店舗icon.png */,
+				3E5F61B61ABD79D50041D6C6 /* 豆icon */,
+				3E5F61BD1ABD7DCA0041D6C6 /* お得情報.png */,
+				3E5F61A91ABD77F30041D6C6 /* logo.png */,
+				3E5F619E1ABD76B80041D6C6 /* top.png */,
+			);
+			name = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,9 +345,52 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E5F62181ABE1F080041D6C6 /* tea.png in Resources */,
+				3E5F62171ABE1F080041D6C6 /* others.png in Resources */,
+				3E5F62241ABE25B80041D6C6 /* drip.png in Resources */,
+				3E5F61C21ABDB8AA0041D6C6 /* SHOPLIST.png in Resources */,
+				3E5F61B81ABD79D50041D6C6 /* メニューicon.png in Resources */,
+				3E5F622C1ABE2D4A0041D6C6 /* press.png in Resources */,
+				3E5F61B71ABD79D50041D6C6 /* カードicon.png in Resources */,
 				3E5F61841ABD610C0041D6C6 /* Main.storyboard in Resources */,
+				3E5F61BA1ABD79D50041D6C6 /* 豆icon in Resources */,
+				3E5F62261ABE25E00041D6C6 /* drip.png in Resources */,
+				3E5F61F61ABDF9290041D6C6 /* beansillu.png in Resources */,
+				3E5F61F01ABDF8790041D6C6 /* brond.png in Resources */,
+				3E5F62151ABE1F080041D6C6 /* coffee.png in Resources */,
+				3E5F62201ABE22DA0041D6C6 /* short.png in Resources */,
+				3E5F61F21ABDF8790041D6C6 /* medium.png in Resources */,
+				3E5F61AA1ABD77F30041D6C6 /* logo.png in Resources */,
+				3E5F621A1ABE1FF90041D6C6 /* cos.png in Resources */,
+				3E5F62061ABE12AF0041D6C6 /* mag.png in Resources */,
+				3E5F61C91ABDCCDB0041D6C6 /* あ.png in Resources */,
+				3E5F62211ABE22DA0041D6C6 /* tall.png in Resources */,
+				3E5F61E41ABDED550041D6C6 /* beans.png in Resources */,
+				3E5F62041ABE11EF0041D6C6 /* gift.png in Resources */,
+				3E5F61C61ABDB90A0041D6C6 /* shoplisticon.png in Resources */,
+				3E5F62101ABE1B2C0041D6C6 /* cap.png in Resources */,
+				3E5F61F11ABDF8790041D6C6 /* dark.png in Resources */,
+				3E5F62001ABE0ED20041D6C6 /* card.png in Resources */,
+				3E5F62021ABE0F6A0041D6C6 /* cardd.png in Resources */,
+				3E5F61F81ABE062F0041D6C6 /* 好み.png in Resources */,
+				3E5F622A1ABE274E0041D6C6 /* hot.png in Resources */,
+				3E5F61CE1ABDD9160041D6C6 /* wifi接続方法.png in Resources */,
+				3E5F62221ABE22DA0041D6C6 /* venti.png in Resources */,
+				3E5F61CB1ABDCD4F0041D6C6 /* english.png in Resources */,
+				3E5F62161ABE1F080041D6C6 /* esp.png in Resources */,
+				3E5F61F41ABDF8FB0041D6C6 /* 袋.png in Resources */,
+				3E5F61B91ABD79D50041D6C6 /* 店舗icon.png in Resources */,
+				3E5F61A31ABD76B80041D6C6 /* top.png in Resources */,
+				3E5F61FE1ABE09C40041D6C6 /* roasstlevel.png in Resources */,
+				3E5F61D61ABDE02E0041D6C6 /* back.png in Resources */,
 				3E5F61891ABD610C0041D6C6 /* LaunchScreen.xib in Resources */,
+				3E5F62291ABE274E0041D6C6 /* cold.png in Resources */,
+				3E5F621F1ABE22DA0041D6C6 /* grande.png in Resources */,
+				3E5F61BE1ABD7DCA0041D6C6 /* お得情報.png in Resources */,
 				3E5F61861ABD610C0041D6C6 /* Images.xcassets in Resources */,
+				3E5F61C41ABDB8AA0041D6C6 /* wifi-icon-2.png in Resources */,
+				3E5F61C31ABDB8AA0041D6C6 /* wifi in Resources */,
+				3E5F61CF1ABDD9160041D6C6 /* wifi登録方法.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,7 +408,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E5F620A1ABE155D0041D6C6 /* MDViewController.swift in Sources */,
+				3E5F62081ABE14510041D6C6 /* CardViewController.swift in Sources */,
 				3E5F61811ABD610C0041D6C6 /* ViewController.swift in Sources */,
+				3E5F61D31ABDD9520041D6C6 /* WifiViewController.swift in Sources */,
+				3E5F622E1ABE2DBF0041D6C6 /* CoffeeViewController.swift in Sources */,
 				3E5F617F1ABD610C0041D6C6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -405,6 +605,7 @@
 				3E5F619A1ABD610C0041D6C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3E5F619B1ABD610C0041D6C6 /* Build configuration list for PBXNativeTarget "starbucksappTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +614,7 @@
 				3E5F619D1ABD610C0041D6C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

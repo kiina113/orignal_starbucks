@@ -9,11 +9,33 @@
 import UIKit
 
 class WifiViewController: UIViewController {
+    let image1 = UIImage(named: "wifi登録方法.png")
+    let image2 = UIImage(named: "wifi接続方法.png")
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        let imageView1 = UIImageView(image: image1)
+        let imageView2 = UIImageView(image: image2)
+        
+        let scrView = UIScrollView()
+        
+        scrView.frame = CGRectMake(0, 0, 320, 580)
+        
+        scrView.contentSize = CGSizeMake(320, 580*2)
+        
+        imageView1.frame = CGRectMake(0, 0, 320, 580)
+        imageView2.frame = CGRectMake(580, 0, 320, 580*2)
+        
+        self.view.addSubview(scrView)
+        
+        scrView.addSubview(imageView1)
+        scrView.addSubview(imageView2)
+        
+        scrView.pagingEnabled = true
     }
 
     override func didReceiveMemoryWarning() {
