@@ -60,6 +60,14 @@
 		3E5F622A1ABE274E0041D6C6 /* hot.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62281ABE274E0041D6C6 /* hot.png */; };
 		3E5F622C1ABE2D4A0041D6C6 /* press.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F622B1ABE2D4A0041D6C6 /* press.png */; };
 		3E5F622E1ABE2DBF0041D6C6 /* CoffeeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5F622D1ABE2DBF0041D6C6 /* CoffeeViewController.swift */; };
+		3E5F62301ABED2E20041D6C6 /* EspViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5F622F1ABED2E20041D6C6 /* EspViewController.swift */; };
+		3E5F62321ABED9280041D6C6 /* frap.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62311ABED9280041D6C6 /* frap.png */; };
+		3E5F62361ABEDA170041D6C6 /* frapicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F62351ABEDA170041D6C6 /* frapicon.png */; };
+		3E5F62381ABEE4C40041D6C6 /* TeaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5F62371ABEE4C40041D6C6 /* TeaViewController.swift */; };
+		3E5F623A1ABEE8080041D6C6 /* FraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5F62391ABEE8080041D6C6 /* FraViewController.swift */; };
+		3E5F623C1ABEED290041D6C6 /* OtherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5F623B1ABEED290041D6C6 /* OtherViewController.swift */; };
+		3E5F623F1ABF038C0041D6C6 /* 50.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F623D1ABF038C0041D6C6 /* 50.png */; };
+		3E5F62401ABF038C0041D6C6 /* free.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F623E1ABF038C0041D6C6 /* free.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -132,6 +140,14 @@
 		3E5F62281ABE274E0041D6C6 /* hot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hot.png; sourceTree = "<group>"; };
 		3E5F622B1ABE2D4A0041D6C6 /* press.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = press.png; sourceTree = "<group>"; };
 		3E5F622D1ABE2DBF0041D6C6 /* CoffeeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoffeeViewController.swift; sourceTree = "<group>"; };
+		3E5F622F1ABED2E20041D6C6 /* EspViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EspViewController.swift; sourceTree = "<group>"; };
+		3E5F62311ABED9280041D6C6 /* frap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frap.png; sourceTree = "<group>"; };
+		3E5F62351ABEDA170041D6C6 /* frapicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frapicon.png; sourceTree = "<group>"; };
+		3E5F62371ABEE4C40041D6C6 /* TeaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TeaViewController.swift; sourceTree = "<group>"; };
+		3E5F62391ABEE8080041D6C6 /* FraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FraViewController.swift; sourceTree = "<group>"; };
+		3E5F623B1ABEED290041D6C6 /* OtherViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OtherViewController.swift; sourceTree = "<group>"; };
+		3E5F623D1ABF038C0041D6C6 /* 50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 50.png; sourceTree = "<group>"; };
+		3E5F623E1ABF038C0041D6C6 /* free.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = free.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +196,10 @@
 				3E5F62091ABE155D0041D6C6 /* MDViewController.swift */,
 				3E5F62071ABE14510041D6C6 /* CardViewController.swift */,
 				3E5F622D1ABE2DBF0041D6C6 /* CoffeeViewController.swift */,
+				3E5F622F1ABED2E20041D6C6 /* EspViewController.swift */,
+				3E5F62371ABEE4C40041D6C6 /* TeaViewController.swift */,
+				3E5F62391ABEE8080041D6C6 /* FraViewController.swift */,
+				3E5F623B1ABEED290041D6C6 /* OtherViewController.swift */,
 				3E5F61821ABD610C0041D6C6 /* Main.storyboard */,
 				3E5F61851ABD610C0041D6C6 /* Images.xcassets */,
 				3E5F61871ABD610C0041D6C6 /* LaunchScreen.xib */,
@@ -216,6 +236,10 @@
 		3E5F61A81ABD76BF0041D6C6 /* image */ = {
 			isa = PBXGroup;
 			children = (
+				3E5F623D1ABF038C0041D6C6 /* 50.png */,
+				3E5F623E1ABF038C0041D6C6 /* free.png */,
+				3E5F62351ABEDA170041D6C6 /* frapicon.png */,
+				3E5F62311ABED9280041D6C6 /* frap.png */,
 				3E5F621B1ABE22DA0041D6C6 /* grande.png */,
 				3E5F622B1ABE2D4A0041D6C6 /* press.png */,
 				3E5F62231ABE25B80041D6C6 /* drip.png */,
@@ -356,6 +380,7 @@
 				3E5F61BA1ABD79D50041D6C6 /* 豆icon in Resources */,
 				3E5F62261ABE25E00041D6C6 /* drip.png in Resources */,
 				3E5F61F61ABDF9290041D6C6 /* beansillu.png in Resources */,
+				3E5F62321ABED9280041D6C6 /* frap.png in Resources */,
 				3E5F61F01ABDF8790041D6C6 /* brond.png in Resources */,
 				3E5F62151ABE1F080041D6C6 /* coffee.png in Resources */,
 				3E5F62201ABE22DA0041D6C6 /* short.png in Resources */,
@@ -376,13 +401,16 @@
 				3E5F622A1ABE274E0041D6C6 /* hot.png in Resources */,
 				3E5F61CE1ABDD9160041D6C6 /* wifi接続方法.png in Resources */,
 				3E5F62221ABE22DA0041D6C6 /* venti.png in Resources */,
+				3E5F623F1ABF038C0041D6C6 /* 50.png in Resources */,
 				3E5F61CB1ABDCD4F0041D6C6 /* english.png in Resources */,
+				3E5F62361ABEDA170041D6C6 /* frapicon.png in Resources */,
 				3E5F62161ABE1F080041D6C6 /* esp.png in Resources */,
 				3E5F61F41ABDF8FB0041D6C6 /* 袋.png in Resources */,
 				3E5F61B91ABD79D50041D6C6 /* 店舗icon.png in Resources */,
 				3E5F61A31ABD76B80041D6C6 /* top.png in Resources */,
 				3E5F61FE1ABE09C40041D6C6 /* roasstlevel.png in Resources */,
 				3E5F61D61ABDE02E0041D6C6 /* back.png in Resources */,
+				3E5F62401ABF038C0041D6C6 /* free.png in Resources */,
 				3E5F61891ABD610C0041D6C6 /* LaunchScreen.xib in Resources */,
 				3E5F62291ABE274E0041D6C6 /* cold.png in Resources */,
 				3E5F621F1ABE22DA0041D6C6 /* grande.png in Resources */,
@@ -411,9 +439,13 @@
 				3E5F620A1ABE155D0041D6C6 /* MDViewController.swift in Sources */,
 				3E5F62081ABE14510041D6C6 /* CardViewController.swift in Sources */,
 				3E5F61811ABD610C0041D6C6 /* ViewController.swift in Sources */,
+				3E5F62381ABEE4C40041D6C6 /* TeaViewController.swift in Sources */,
+				3E5F623A1ABEE8080041D6C6 /* FraViewController.swift in Sources */,
 				3E5F61D31ABDD9520041D6C6 /* WifiViewController.swift in Sources */,
+				3E5F62301ABED2E20041D6C6 /* EspViewController.swift in Sources */,
 				3E5F622E1ABE2DBF0041D6C6 /* CoffeeViewController.swift in Sources */,
 				3E5F617F1ABD610C0041D6C6 /* AppDelegate.swift in Sources */,
+				3E5F623C1ABEED290041D6C6 /* OtherViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
